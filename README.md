@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1" alt="" width="100%" height="300px">
+
 <h1 align="center">Hi 👋, I'm Sotiris Vogas</h1>
 <h3 align="center">A passionate frontend developer from Greece</h3>
  
