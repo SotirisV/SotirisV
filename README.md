@@ -6,7 +6,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif" alt="code" width="400">
 
 
-- 🌱 I’m currently learning **React, Vue**
+- 🌱 I’m currently learning **React.js, Vue.js**
 <br>
 - 📫 How to reach me **sotirisvogas2@gmail.com**
 
