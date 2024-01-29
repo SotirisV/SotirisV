@@ -6,7 +6,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif" alt="code" width="400">
 
 <h1>My education</h1>
-<p>I have 2 years of education as an IT Applications Specialist and half a year of experience working on the field. I also have a year of education about Web Design and Development using WordPress. Courently I am studing to become a FrontEnd Developer.</p>
+<p>I have 2 years of education as an IT Applications Specialist and half a year of experience working on the field. I also have a year of education about Web Design and Development using WordPress. Currently I am studing to become a FrontEnd Developer.</p>
 - 🌱 I’m currently learning **React.js**
 <br>
 - 📫 How to reach me **sotirisvogas3@outlook.com**
