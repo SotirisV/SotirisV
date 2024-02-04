@@ -6,7 +6,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif" alt="code" width="400">
 
 <h1>My education</h1>
-<p>I have completed my education as an IT Applications Specialist and I also have half a year of experience working on the field.In addition to, a year of education about Web Design and Development using WordPress.</p>
+<p>Armed with a IT Applications Specialist degree, I bring half a year of hands-on experience in. Having successfully completed an educational seminar of one year as Web Designer-Developer, I gained valuable insights into delivering a complete user friendly website using WordPress. </p>
 - 🌱 I’m currently learning **React.js**
 <br>
 - 📫 How to reach me **sotirisvogas3@outlook.com**
